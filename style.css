@@ -1,0 +1,22 @@
+#mainWrapper{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#inputWrapper {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#fruitSection {
+    /* background: pink; */
+    display: inline-block;
+}
+
+#vegetableSection {
+    /* background: seagreen; */
+    display: inline-block;
+    float: right;
+
+}
